@@ -71,7 +71,10 @@ We are now at the last part of step by step guide on how to simulate STM32 proje
 
 
 ## STM 32 CUBE PROGRAM :
-
+```
+Name : Sam Israel D
+Reg. No: 212222230128
+```
 ```c
 #include "main.h"
 #include <stdbool.h>
@@ -185,11 +188,11 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 ![alt text](./images/img1.png)
 
- ![alt text](./images/img2.png~)
+ ![alt text](./images/img2.png)
 
 ## Proteus layout(Add pdf screen shot of circuit here)
  
- ![alt text](image.png)
+ ![alt text](./images/image.png)
  
  
 ## Result :
