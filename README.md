@@ -185,7 +185,7 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 ![alt text](./images/img1.png)
 
- ![alt text](./images/img2.png)
+ ![alt text](./images/img2.png~)
 
 ## Proteus layout(Add pdf screen shot of circuit here)
  
