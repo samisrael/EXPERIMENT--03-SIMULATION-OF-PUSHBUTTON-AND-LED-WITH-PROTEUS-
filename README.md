@@ -186,13 +186,13 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 ## Output screen shots of proteus  :
 
-![alt text](./images/img1.png)
+![alt text](./images/img1.jpeg)
 
- ![alt text](./images/img2.png)
+ ![alt text](./images/img2.jpeg)
 
 ## Proteus layout(Add pdf screen shot of circuit here)
  
- ![alt text](./images/image.png)
+ ![alt text](./images/img3.jpeg)
  
  
 ## Result :
